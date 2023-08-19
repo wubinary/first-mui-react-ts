@@ -31,8 +31,6 @@ export default function Main(props: MainProps) {
         fetchData();
     }, []);
 
-    console.log(postRaws);
-
     return (
         <Grid
             item

@@ -1,5 +1,5 @@
 {
-    "homepage": "http://wubinary.github.io/first-mui-react-ts/",
+    "#homepage": "http://wubinary.github.io/first-mui-react-ts/",
     "name": "material-cra-ts",
     "version": "5.0.0",
     "private": true,
@@ -15,6 +15,7 @@
         "raw-loader": "latest",
         "react": "latest",
         "react-dom": "latest",
+        "react-router-dom": "^6.15.0",
         "react-scripts": "latest",
         "typescript": "latest"
     },

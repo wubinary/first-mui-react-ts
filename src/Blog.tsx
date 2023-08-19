@@ -14,7 +14,7 @@ import Sidebar from './Sidebar';
 import Footer from './Footer';
 
 // Markdown post saved in public/
-const posts = ["./blog-post.1.md", "./blog-post.2.md", "./blog-post.3.md", "blog-test.md"];
+const posts = ["blog-post.1.md", "blog-post.2.md", "blog-post.3.md", "blog-test.md"];
 
 const sections = [
     { title: 'Technology', url: '#' },
